@@ -113,13 +113,3 @@ python3 sim2sim_tinker.py --load_model /workspace/logs/rough_go2_constraint/Oct1
 ``` shell
 docker compose down
 ```
-
----
-Основные изменения на 13.10.2025:
-- пути в Dockerfile и в docker-compose.yml 
-- IsaacSym исправление установки (ссылки)
-- повышение версии до PyTorch 1.9-1.10 с CUDA 11.1
-- иструкция обновлена и  дополнена 
-
-Вопросы:
-- (refer to Tinker documentation for further scenarios (ССЫЛКА)): какая ссылка - см в мэйне?
